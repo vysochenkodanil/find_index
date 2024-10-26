@@ -18,6 +18,5 @@ if __name__ == '__main__':
     a = list(map(int, input().split()))
     b = int(input())
     
-    
     result = main(a, b)
     print(result)
